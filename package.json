@@ -1,17 +1,17 @@
 {
   "dependencies": {
-    "mongoose": "^6.2.1"
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.15"
   },
   "name": "social-network-app",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "start": "node src/index.js",
     "seed": "node src/seeds/index.js",
     "dev": "nodemon src/index.js"
-   
   },
   "repository": {
     "type": "git",
