@@ -5,7 +5,7 @@
     "thoughts": [
       {
         "thoughtText": "NoSQL is super easy",
-        "createdAt": "20th Mar 2021 14:00",
+        "createdAT": "20th Mar 2021 14:00",
         "username": "bobsmith",
         "reactions": [
           {
@@ -29,6 +29,8 @@
         ]
       }
     ],
+
+    
     "friends": [
       {
         "username": "tomsmith",
@@ -41,7 +43,7 @@
         "thoughts": [
           {
             "thoughtText": "MySQL is the best",
-            "createdAt": "18th Mar 2021 14:00",
+            "createdAT": "18th Mar 2021 14:00",
             "username": "jacksmith",
             "reactions": [
               {
@@ -62,4 +64,32 @@
       }
     ]
   }
+]
+
+[
+   { "username": "bobsmith",
+    "email": "bobsmith@email.com",
+    "thoughts":[],
+    "friends": [],
+   },
+   { "username": "mikesmith",
+    "email": "mikesmith@email.com",
+    "thoughts":[],
+    "friends": [],
+   },
+   { "username": "aressmith",
+    "email": "aressmith@email.com",
+    "thoughts":[],
+    "friends": [],
+   },
+   { "username": "lucksmith",
+    "email": "lucksmith@email.com",
+    "thoughts":[],
+    "friends": [],
+   },
+   { "username": "annasmith",
+    "email": "annasmith@email.com",
+    "thoughts":[],
+    "friends": [],
+   },
 ]
