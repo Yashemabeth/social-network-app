@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "mongoose": "^6.2.1"
+  },
+  "name": "social-network-app",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js
+    "seed": "node src/index.js",
+    "dev": "nodemon src/index.js"
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashemabeth/social-network-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yashemabeth/social-network-app/issues"
+  },
+  "homepage": "https://github.com/Yashemabeth/social-network-app#readme"
+}
